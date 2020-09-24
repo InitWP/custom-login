@@ -1,0 +1,10 @@
+{
+	"name": "Custom Login",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "Show custom login form with custom error messages",
+	"files": [
+		"custom-login.css",
+		"custom-login.php"
+    ]
+}
